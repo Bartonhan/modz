@@ -81,5 +81,31 @@
 		"gameDownloadUrl": [
 			"https://play.google.com/store/apps/details?id=com.elevenbitstudios.twommobile"
 		]
+	}, {
+		"modz": "https://github.com/Bartonhan/modz/raw/master/com.modz.doNotStarvePocket/com.modz.doNotStarvePocket.modz",
+		"readme": "https://github.com/Bartonhan/modz/raw/master/com.modz.doNotStarvePocket/README.md",
+		"desc": "DoNotStarve",
+		"name": "DoNotStarve",
+		"pkgName": "com.modz.doNotStarvePocket",
+		"versionCode": 385,
+		"versionName": "1.0.385",
+		"target": "com.kleientertainment.doNotStarvePocket",
+		"support": "*",
+		"gameName": "DoNotStarve",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 385,
+			"versionName": "1.0.385",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Bartonhan/modz/raw/master/com.modz.doNotStarvePocket/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.kleientertainment.doNotStarvePocket"
+		]
 	}]
 }
