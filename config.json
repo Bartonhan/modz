@@ -1,0 +1,85 @@
+{
+
+	"author": "Bartonhan",
+	"id": "Bartonhan-10005",
+	"introduce": "rouge like，my favorites!",
+	"modzList": [{
+		"modz": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/com.modz.DungeonShooter.modz",
+		"readme": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/README.md",
+		"desc": "Invincible,double Moving speed,Damage+1000,Get Gems and Money 99999,So Wonderful!",
+		"name": "Kill Everyone !",
+		"pkgName": "com.modz.DungeonShooter",
+		"versionCode": 28,
+		"versionName": "1.0.28",
+		"target": "com.ChillyRoom.DungeonShooter",
+		"support": "1545",
+		"gameName": "Soul knight",
+		"iconUrl": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/screenshot/icon.png",
+		"changelog": [{
+			"versionCode": 28,
+			"versionName": "1.0.28",
+			"whatsNew": "support game version (1545)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter"
+		]
+	}, {
+		"modz": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonMaker/com.modz.DungeonMaker.modz",
+		"readme": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonMaker/README.md",
+		"desc": "i have infinity Gold and Devil Stone!Invincible,skill cost,It's all you want.",
+		"name": "i'm BOSS",
+		"pkgName": "com.modz.DungeonMaker",
+		"versionCode": 2,
+		"versionName": "1.0.2",
+		"target": "com.GameCoaster.DungeonMaker",
+		"support": "64",
+		"gameName": "DungeonMaker",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 2,
+			"versionName": "1.0.2",
+			"whatsNew": "support game version (64)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonMaker/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.GameCoaster.DungeonMaker"
+		]
+	}, {
+		"modz": "https://github.com/Bartonhan/modz/raw/master/com.modz.twommobile/com.modz.twommobile.modz",
+		"readme": "https://github.com/Bartonhan/modz/raw/master/com.modz.twommobile/README.md",
+		"desc": "infinity backpack space,all weapon and tool,teleport,Lock daytime,items,powerful functions!",
+		"name": "Live on!",
+		"pkgName": "com.modz.twommobile",
+		"versionCode": 18,
+		"versionName": "1.0.18",
+		"target": "com.elevenbitstudios.twommobile",
+		"support": "*",
+		"gameName": "This War of Mine",
+		"iconUrl": "",
+		"changelog": [{
+			"versionCode": 18,
+			"versionName": "1.0.18",
+			"whatsNew": "support game version (*)"
+		}],
+		"screenshotUrl": [
+			"https://github.com/Bartonhan/modz/raw/master/com.modz.twommobile/screenshot/modz.jpg"
+		],
+		"videoUrl": [
+			""
+		],
+		"gameDownloadUrl": [
+			"https://play.google.com/store/apps/details?id=com.elevenbitstudios.twommobile"
+		]
+	}]
+}
