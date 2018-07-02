@@ -29,4 +29,4 @@ this modz is game assist about com.kleientertainment.doNotStarvePocket
 
 ## What's New in Version
 
-* support game version 1.04(26) 
+* support game version 1.06(38) 
