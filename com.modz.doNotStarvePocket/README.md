@@ -6,7 +6,7 @@ the game's url
 
 * http://play.google.com/store/apps/details?id=com.kleientertainment.doNotStarvePocket
 
-* https://my.pcloud.com/publink/show?code=XZYI8f7ZoxjJEQiI6NJHINNrUSQ0bSXbdBQ7
+* https://my.pcloud.com/publink/show?code=XZGmpB7ZwNcqclwrVJmuRSeQMt7n50BdUlpX
 
 To use modz, you need to download doddercat app first, Dodder Cat download url at:
 
