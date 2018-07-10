@@ -9,16 +9,16 @@
 		"desc": "Invincible,double Moving speed,Damage+1000,Get Gems and Money 99999,So Wonderful!",
 		"name": "Kill Everyone !",
 		"pkgName": "com.modz.DungeonShooter",
-		"versionCode": 28,
-		"versionName": "1.0.28",
+		"versionCode": 29,
+		"versionName": "1.0.29",
 		"target": "com.ChillyRoom.DungeonShooter",
 		"support": "1545",
 		"gameName": "Soul knight",
 		"iconUrl": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/screenshot/icon.png",
 		"changelog": [{
-			"versionCode": 28,
-			"versionName": "1.0.28",
-			"whatsNew": "support game version (1545)"
+			"versionCode": 29,
+			"versionName": "1.0.29",
+			"whatsNew": "support game version (*)"
 		}],
 		"screenshotUrl": [
 			"https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/screenshot/modz.jpg"
