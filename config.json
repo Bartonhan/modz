@@ -35,15 +35,15 @@
 		"desc": "i have infinity Gold and Devil Stone!Invincible,skill cost,It's all you want.",
 		"name": "i'm BOSS",
 		"pkgName": "com.modz.DungeonMaker",
-		"versionCode": 2,
-		"versionName": "1.0.2",
+		"versionCode": 3,
+		"versionName": "1.0.3",
 		"target": "com.GameCoaster.DungeonMaker",
 		"support": "64",
 		"gameName": "DungeonMaker",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 2,
-			"versionName": "1.0.2",
+			"versionCode": 3,
+			"versionName": "1.0.3",
 			"whatsNew": "support game version (64)"
 		}],
 		"screenshotUrl": [
