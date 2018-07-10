@@ -12,7 +12,7 @@
 		"versionCode": 29,
 		"versionName": "1.0.29",
 		"target": "com.ChillyRoom.DungeonShooter",
-		"support": "1545",
+		"support": "*",
 		"gameName": "Soul knight",
 		"iconUrl": "https://github.com/Bartonhan/modz/raw/master/com.modz.DungeonShooter/screenshot/icon.png",
 		"changelog": [{
