@@ -87,15 +87,15 @@
 		"desc": "DoNotStarve",
 		"name": "DoNotStarve",
 		"pkgName": "com.modz.doNotStarvePocket",
-		"versionCode": 385,
-		"versionName": "1.0.385",
+		"versionCode": 386,
+		"versionName": "1.0.386",
 		"target": "com.kleientertainment.doNotStarvePocket",
 		"support": "*",
 		"gameName": "DoNotStarve",
 		"iconUrl": "",
 		"changelog": [{
-			"versionCode": 385,
-			"versionName": "1.0.385",
+			"versionCode": 386,
+			"versionName": "1.0.386",
 			"whatsNew": "support game version (*)"
 		}],
 		"screenshotUrl": [
